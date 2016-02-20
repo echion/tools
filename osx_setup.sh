@@ -21,6 +21,7 @@ brew cask install --appdir="/Applications" vagrant
 brew cask install --appdir="/Applications" vagrant-manager
 brew cask install --appdir="/Applications" sourcetree
 brew cask install --appdir="/Applicaitons" intellij-idea
+brew cask install --appdir="/Applicaitons" iterm2
 
 docker-machine create --driver virtualbox default
 
