@@ -13,6 +13,7 @@ brew install docker
 brew install docker-machine
 brew install android-sdk
 brew install awscli
+brew install mongodb
 brew cask install --appdir="/Applications" caskroom/versions/sublime-text3
 brew cask install --appdir="/Applications" google-chrome
 brew cask install --appdir="/Applications" github
