@@ -16,7 +16,6 @@ brew cask install --appdir="/Applications" dockertoolbox
 brew cask install --appdir="/Applications" caskroom/versions/sublime-text3
 brew cask install --appdir="/Applications" google-chrome
 brew cask install --appdir="/Applications" github
-brew cask install --appdir="/Applications" sublime-text
 brew cask install --appdir="/Applications" virtualbox
 brew cask install --appdir="/Applications" vagrant
 brew cask install --appdir="/Applications" vagrant-manager
