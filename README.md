@@ -6,9 +6,11 @@ Contains utilties and instructions for configuring environments for the platform
 
 1. Run osx_setup.sh (assumes fresh image) 
 
-##Git
+##Windows
 
-Setup Github
+1. Run win_setup.ps1 (assumes fresh image)
+
+##Setup Github
 ------------
 ```bash
 # Set git config values
