@@ -11,14 +11,6 @@ Contains utilties and instructions for configuring environments for the platform
 1. Run win_setup.ps1 (assumes fresh image)
 
 ##Setup Github
-------------
-```bash
-# Set git config values
-git config --global user.name "John Doe"
-git config --global user.email "jdoe@someorg.com"
-git config --global github.user jdoe
-git config --global github.token your_token_here
-git config --global core.editor "subl -w"
-git config --global color.ui true
-```
+
+<script src="https://gist.github.com/jasonreimer/17adbfa9aef09cbc00c1.js"></script>
 
