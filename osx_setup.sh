@@ -12,6 +12,9 @@ brew install node
 brew install android-sdk
 brew install awscli
 brew install mongodb
+brew install graphviz 
+brew install libtool 
+brew install maven
 brew cask install --appdir="/Applications" dockertoolbox
 brew cask install --appdir="/Applications" caskroom/versions/sublime-text3
 brew cask install --appdir="/Applications" google-chrome
