@@ -1,16 +1,16 @@
-#Tools
+# Tools
 
 Contains utilties and instructions for configuring environments for the platform.
 
-##OSX
+## OSX
 
 1. Run osx_setup.sh (assumes fresh image) 
 
-##Windows
+## Windows
 
 1. Run win_setup.ps1 (assumes fresh image)
 
-##Setup Github
+## Setup Github
 
 ```bash
 # Set git config values
